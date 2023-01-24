@@ -1,0 +1,1 @@
+use crtl+shift+l to select all

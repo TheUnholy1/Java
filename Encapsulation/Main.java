@@ -13,7 +13,7 @@ public class Main {
 
             case 1: 
 
-            s.out.println("Area of Circle");
+            System.out.println("Area of Circle");
             System.out.print("Enter the Radius: ");
             mathOperations.setNum3(scanner.nextDouble());
             mathOperations.c_area();
